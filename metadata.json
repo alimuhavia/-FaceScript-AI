@@ -1,0 +1,7 @@
+{
+  "name": "FaceScript AI",
+  "description": "Analyze facial features to generate detailed descriptive scripts and AI avatars using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
